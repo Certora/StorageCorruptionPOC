@@ -14,7 +14,7 @@ Then, in this directory, simply run `node index.js`.
 
 You should see something like the following output
 
-    helogale:MemoryCorruptionPOC jrw$ node index.js
+    helogale:StorageCorruptionPOC jrw$ node index.js
 	Done compiling
     Deployed corruptible contract
     115792089237316195423570985008687907853269984665640564039457584007913129639680
